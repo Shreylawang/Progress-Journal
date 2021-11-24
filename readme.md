@@ -11,3 +11,7 @@
 ### Day 03 
  `24 Nov 21`
 - Make Notes Code Theme Toggle
+
+### Day 04 
+ `25 Nov 21`
+- Practice Code (By Seeing From Notes Or Code)
