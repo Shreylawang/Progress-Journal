@@ -18,4 +18,4 @@
 
 ### Day 05 
  `26 Nov 21`
-- Practice Code (By Seeing From Notes Or Code)
+- Practice Code (By Seeing From Notes Or Code) X1
