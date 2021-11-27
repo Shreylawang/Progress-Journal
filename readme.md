@@ -18,4 +18,13 @@
 
 ### Day 05 
  `26 Nov 21`
-- Practice Code (By Seeing From Notes Or Code) X1
+- Started Minor Project "Bookshelf" with adarsh
+- Designed UI on canva, Developed UI of Dashboard 
+
+### Day 06 
+ `27 Nov 21`
+- Added Functionalities of Dashboard - Grid Display of Books Using Javascript  
+
+### Day 07 
+ `28 Nov 21`
+- 
