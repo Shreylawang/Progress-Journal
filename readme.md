@@ -27,4 +27,8 @@
 
 ### Day 07 
  `28 Nov 21`
-- 
+- Unintentional Break ( Relatives )
+
+### Day 08 
+ `28 Nov 21`
+- Design & Create UI of "Add Books" Page
