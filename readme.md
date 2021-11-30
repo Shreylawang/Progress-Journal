@@ -35,4 +35,4 @@
 
 ### Day 09 
  `30 Nov 21`
-- Design & Create UI of "Add Books" Page
+- Improve Design & UI of "Add Books" Page
