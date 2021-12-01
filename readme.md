@@ -36,3 +36,8 @@
 ### Day 09 
  `30 Nov 21`
 - Improve Design & UI of "Add Books" Page
+
+### Day 10 
+ `01 Dec 21`
+- Improve Design & UI of "Add Books" Page
+- Work on Login  Page 
