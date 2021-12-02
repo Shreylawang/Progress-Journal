@@ -39,5 +39,13 @@
 
 ### Day 10 
  `01 Dec 21`
-- Improve Design & UI of "Add Books" Page
-- Work on Login  Page 
+- HTML Structure of Login Page has been created
+
+### Day 11 
+ `02 Dec 21`
+- Unintentional Break - College Work 
+
+### Day 12 
+ `03 Dec 21`
+- Reduce the container width UI of "Add Books" Page
+- Add CSS to Login page
