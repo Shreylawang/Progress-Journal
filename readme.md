@@ -48,4 +48,9 @@
 ### Day 12 
  `03 Dec 21`
 - Reduce the container width UI of "Add Books" Page
-- Add CSS to Login page
+- Add CSS to "Login page"
+
+### Day 13 
+ `04 Dec 21`
+- Create HTML structure of the "Signup Page"
+- Add CSS to the "Signup Page" 
