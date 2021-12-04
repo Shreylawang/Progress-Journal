@@ -52,5 +52,9 @@
 
 ### Day 13 
  `04 Dec 21`
+- Break
+
+### Day 14 
+ `05 Dec 21`
 - Create HTML structure of the "Signup Page"
 - Add CSS to the "Signup Page" 
