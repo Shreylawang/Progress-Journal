@@ -61,3 +61,8 @@
 ### Day 15 
  `06 Dec 21`
 - Finish up with Signup Page
+- Learned methods of fetch API such as GET, POST
+
+### Day 16 
+ `07 Dec 21`
+- Work on the fetch API part of "Add Books" 
