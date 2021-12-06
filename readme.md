@@ -52,9 +52,12 @@
 
 ### Day 13 
  `04 Dec 21`
-- Break
+- - Unintentional Break -  Cleaning and House Work
 
 ### Day 14 
  `05 Dec 21`
-- Create HTML structure of the "Signup Page"
-- Add CSS to the "Signup Page" 
+- - Unintentional Break - Family Function
+
+### Day 15 
+ `06 Dec 21`
+- Finish up with Signup Page
