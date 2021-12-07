@@ -66,3 +66,10 @@
 ### Day 16 
  `07 Dec 21`
 - Work on the fetch API part of "Add Books" 
+- Planned all the functionality of project Bookshelf
+
+### Day 17 
+ `08 Dec 21`
+- Learn (Project) - pagination in JS
+- Learn and practice (Concepts) - callbacks and functions respectively 
+- Start solving (Logical Building) - JS questions online/offline 
