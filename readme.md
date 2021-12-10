@@ -70,6 +70,12 @@
 
 ### Day 17 
  `08 Dec 21`
-- Learn (Project) - pagination in JS
-- Learn and practice (Concepts) - callbacks and functions respectively 
-- Start solving (Logical Building) - JS questions online/offline 
+- Discovered Pagination
+
+### Day 18 
+ `09 Dec 21`
+- Explore exec() function in regex
+
+### Day 19 
+ `10 Dec 21`
+- Explore Regex in Javascript  
