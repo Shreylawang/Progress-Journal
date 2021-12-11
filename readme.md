@@ -78,4 +78,14 @@
 
 ### Day 19 
  `10 Dec 21`
-- Explore Regex in Javascript  
+- Explore Regex in Javascript
+- Learned modifiers in regex
+- i and g modifier
+- test()
+- match()
+- replace()  
+
+### Day 20
+ `11 Dec 21`
+- Revision of regex
+
