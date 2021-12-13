@@ -89,3 +89,18 @@
  `11 Dec 21`
 - Revision of regex
 
+### Day 21
+ `12 Dec 21`
+- Rest
+
+### Day 22
+ `13 Dec 21`
+- Learn and Implement Regex on login page of bookshelf ✔️
+- Continue Learning Regex ✔️
+
+### Day 23
+ `14 Dec 21`
+- Learn and Implement Regex on login up page of bookshelf 
+- Continue Learning Regex 
+- Reference & Primitive types 
+- Spread & rest operator
