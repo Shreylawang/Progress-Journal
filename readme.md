@@ -1,4 +1,4 @@
-# ROAD TO MEAN STACK DEVELOPER
+# ROAD TO MERN STACK DEVELOPER
 
 ### Day 01
 `22 Nov 21`
@@ -100,7 +100,31 @@
 
 ### Day 23
  `14 Dec 21`
-- Learn and Implement Regex on login up page of bookshelf 
-- Continue Learning Regex 
-- Reference & Primitive types 
-- Spread & rest operator
+- Learn and Implement Regex on login up page of bookshelf ✔️
+- Continue Learning Regex ✔️
+
+### Day 24
+ `15 Dec 21`
+- Break
+
+### Day 25
+ `16 Dec 21`
+- Break
+
+### Day 26
+ `17 Dec 21`
+- Form validation of signup form ✔️
+
+### Day 27
+ `18 Dec 21`
+- Form validation of Add books form ✔️
+- Learn pagination
+- Road to 2022 starts with React.js Topic #1:- Complete about primitive and reference data type 
+
+### Day 28
+ `19 Dec 21`
+- Break
+
+### Day 28
+ `19 Dec 21`
+- Primitive vs non-primitive data types in javascript
