@@ -125,6 +125,22 @@
  `19 Dec 21`
 - Break
 
-### Day 28
- `19 Dec 21`
-- Primitive vs non-primitive data types in javascript
+### Day 29
+ `20 Dec 21`
+- Primitive vs non-primitive data types in javascript ✔️
+
+### Day 30
+ `21 Dec 21`
+- Learned Spread and Rest Operator in Javascript ✔️
+
+### Day 31
+ `22 Dec 21`
+- Practice Primitive vs non-primitive data types in javascript ✔️
+
+### Day 32
+ `23 Dec 21`
+- Added Dynamic Page numbers display in dashboard ✔️
+
+
+
+
