@@ -179,7 +179,9 @@
 
 ### Day 42
  `01 Jan 22`
-- Christmas Break ✔️
+- What is React, Why React, Virtual DOM ✔️
+
+
 
 
 
