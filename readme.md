@@ -141,6 +141,45 @@
  `23 Dec 21`
 - Added Dynamic Page numbers display in dashboard ✔️
 
+### Day 33
+ `24 Dec 21`
+- Christmas Break ✔️
+
+### Day 34
+ `25 Dec 21`
+- Christmas Break ✔️
+
+### Day 35
+ `25 Dec 21`
+- Christmas Break ✔️
+
+### Day 36
+ `26 Dec 21`
+- Christmas Break ✔️
+
+### Day 37
+ `27 Dec 21`
+- Christmas Break ✔️
+
+### Day 38
+ `28 Dec 21`
+- Christmas Break ✔️
+
+### Day 39
+ `29 Dec 21`
+- Christmas Break ✔️
+
+### Day 40
+ `30 Dec 21`
+- Christmas Break ✔️
+
+### Day 41
+ `31 Dec 21`
+- Christmas Break ✔️
+
+### Day 42
+ `01 Jan 22`
+- Christmas Break ✔️
 
 
 
