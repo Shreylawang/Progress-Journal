@@ -194,16 +194,14 @@
 
 ### Day 44
  `03 Jan 22`
-- 🌅Morning :-
--> Practice Pagination
--> Learn Modules, import, export briefly
-
-- ☀️Afternoon:-
--> Solve (1/50) js questions
-
-- 🌃Evening :-
--> ReactJS :- Installing React, Folder Structure, NPM/NPX
--> NodeJS :- Get Started
+- 🌅Morning
+- -> Practice Pagination
+- -> Learn Modules, import, export briefly
+- ☀️Afternoon 
+- -> Solve (1/50) js questions
+- 🌃Evening 
+- -> ReactJS :- Installing React, Folder Structure, NPM/NPX
+- -> NodeJS :- None
 
 
 
