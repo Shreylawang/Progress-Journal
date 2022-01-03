@@ -181,6 +181,25 @@
  `01 Jan 22`
 - What is React, Why React, Virtual DOM ✔️
 
+### Day 43
+ `02 Jan 22`
+- Sunday 🌞
+
+### Day 44
+ `03 Jan 22`
+- 🌅Morning -> Learned Pagination
+- ☀️Afternoon -> Out
+- 🌃Evening -> ReactJS :- Library, Modules, Named Export  
+            -> NodeJS :- None
+
+### Day 44
+ `03 Jan 22`
+- 🌅Morning -> Practice Pagination
+            -> Learn Modules, import, export briefly
+- ☀️Afternoon -> Solve (1/50) js questions
+- 🌃Evening -> ReactJS :- Installing React, Folder Structure, NPM/NPX
+            -> NodeJS :- Get Started
+
 
 
 
